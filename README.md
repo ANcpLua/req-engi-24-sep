@@ -1,3 +1,53 @@
+# EarlyBird Business Services
+
+## Core Services
+
+### Breakfast Delivery Service
+- Guaranteed delivery in less than 25 minutes to all parts of the city
+
+### Product Offerings
+- Prepackaged breakfasts (mini-breakfast, luxury breakfast, etc.)
+- Individual product selection (croissants, orange juice, butter, etc.)
+- Customizable breakfast assembly
+
+## Ordering Services
+
+### Phone Ordering (Current)
+- Customer authentication via customer number
+- Product search by characteristics
+- Follow-up ordering using previous orders as blueprints
+- Order status inquiry
+- Order cancellation
+
+### Web-Based Ordering (Future)
+- Browser-based ordering platform
+- Product search without authentication
+- Order tracking
+
+### SMS Ordering (Future)
+- Text message ordering
+- SMS order cancellation
+
+## Fulfillment Services
+
+### Order Packaging
+- Product assembly
+- Label generation and printing
+- Invoice generation (with copies)
+
+### Delivery Management
+- Itinerary optimization
+- Multi-order route planning
+- Delivery confirmation collection
+
+## Payment Services
+- Payment record generation
+- Integration with existing payment system
+
+## Reporting Services
+- Automated nightly business reports for managers
+- Daily order summaries with full details
+
 # Avalanche Emergency Notification System Requirements
 
 ## System Overview
